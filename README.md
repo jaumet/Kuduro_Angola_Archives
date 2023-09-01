@@ -6,4 +6,4 @@
 
 ## The texts and lyrics of the songs is mainly in Angolan Portuguesse.
 
-## You can see the channel as an HTML page here: [https://jaumet.github.io/Kuduro_Angola_Archives/]
+## You can see the channel as an HTML page here: https://jaumet.github.io/Kuduro_Angola_Archives
